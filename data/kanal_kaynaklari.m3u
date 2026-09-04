@@ -1,0 +1,203 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TRT 4K HD" group-title="Ulusal",TRT 4K HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197438&extension=ts&play_token=zkjkoH1DCe
+#EXTINF:-1 tvg-name="TRT 1 HD" group-title="Ulusal",TRT 1 HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196699&extension=ts&play_token=vmAan78Qyz
+#EXTINF:-1 tvg-name="TRT 2 HD" group-title="Ulusal",TRT 2 HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196688&extension=ts&play_token=xSvgymKo8X
+#EXTINF:-1 tvg-name="ATV HD" group-title="Ulusal",ATV HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196698&extension=ts&play_token=6k77AngOgl
+#EXTINF:-1 tvg-name="BEYAZ TV HD" group-title="Ulusal",BEYAZ TV HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196675&extension=ts&play_token=MB5iIE85Ro
+#EXTINF:-1 tvg-name="SHOW TV HD" group-title="Ulusal",SHOW TV HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196697&extension=ts&play_token=S05dySmbjf
+#EXTINF:-1 tvg-name="STAR TV HD" group-title="Ulusal",STAR TV HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196695&extension=ts&play_token=9rZyNWfIPX
+#EXTINF:-1 tvg-name="KANAL D HD" group-title="Ulusal",KANAL D HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196696&extension=ts&play_token=DYgtNp28Es
+#EXTINF:-1 tvg-name="TV8 HD" group-title="Ulusal",TV8 HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196693&extension=ts&play_token=b5WpiwQiiH
+#EXTINF:-1 tvg-name="TV8.5 HD" group-title="Ulusal",TV8.5 HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196692&extension=ts&play_token=021Y7YSYE8
+#EXTINF:-1 tvg-name="KANAL 7 HD" group-title="Ulusal",KANAL 7 HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196690&extension=ts&play_token=PndCKJQB2u
+#EXTINF:-1 tvg-name="A2 HD" group-title="Ulusal",A2 HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196687&extension=ts&play_token=DGJnc2zcvx
+#EXTINF:-1 tvg-name="TEVE 2 HD" group-title="Ulusal",TEVE 2 HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196689&extension=ts&play_token=7u6BNeQHj0
+#EXTINF:-1 tvg-name="TRT DIYANET HD" group-title="Dini",TRT DIYANET HD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10786&extension=ts
+#EXTINF:-1 tvg-name="SEMERKAND TV" group-title="Dini",SEMERKAND TV
+http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="LALEGUL TV" group-title="Dini",LALEGUL TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 tvg-name="AKIT TV HD" group-title="Haber",AKIT TV HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197233&extension=ts&play_token=5x13V8PrEV
+#EXTINF:-1 tvg-name="TRT HABER HD" group-title="Haber",TRT HABER HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197262&extension=ts&play_token=VItI33IyP6
+#EXTINF:-1 tvg-name="HABER GLOBAL HD" group-title="Haber",HABER GLOBAL HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197268&extension=ts&play_token=tGkC8erhpz
+#EXTINF:-1 tvg-name="CNN TURK HD" group-title="Haber",CNN TURK HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197260&extension=ts&play_token=UJ6cx8th1N
+#EXTINF:-1 tvg-name="TV NET HD" group-title="Haber",TV NET HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197257&extension=ts&play_token=hQlsXbvuXH
+#EXTINF:-1 tvg-name="24 HD" group-title="Haber",24 HD
+https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
+#EXTINF:-1 tvg-name="ÜLKE TV HD" group-title="Haber",ÜLKE TV HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197258&extension=ts&play_token=kT246ZR7mz
+#EXTINF:-1 tvg-name="HABERTURK HD" group-title="Haber",HABERTURK HD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1165406&extension=ts
+#EXTINF:-1 tvg-name="NTV HABER HD" group-title="Haber",NTV HABER HD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170676&extension=ts
+#EXTINF:-1 tvg-name="A HABER HD" group-title="Haber",A HABER HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197259&extension=ts&play_token=lETzv8vz
+#EXTINF:-1 tvg-name="TGRT HABER" group-title="Haber",TGRT HABER
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197263&extension=ts&play_token=c53adoDCo6
+#EXTINF:-1 tvg-name="TV100 HD" group-title="Haber",TV100 HD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1165402&extension=ts
+#EXTINF:-1 tvg-name="EKOTURK" group-title="Ekonomi",EKOTURK
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314426&extension=ts
+#EXTINF:-1 tvg-name="ULUSAL KANAL" group-title="Haber",ULUSAL KANAL
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197178&extension=ts&play_token=8qxzVqk0m2
+#EXTINF:-1 tvg-name="BENGUTURK" group-title="Haber",BENGUTURK
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197227&extension=ts&play_token=BIkfp6yMim
+#EXTINF:-1 tvg-name="BLOOMBERGHT HD" group-title="Ekonomi",BLOOMBERGHT HD
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-name="A PARA HD" group-title="Ekonomi",A PARA HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197272&extension=ts&play_token=YMedtQj0VQ
+#EXTINF:-1 tvg-name="FLASH HABER" group-title="Haber",FLASH HABER
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197265&extension=ts&play_token=QkFNXps4SM
+#EXTINF:-1 tvg-name="TRT BELGESEL" group-title="Belgesel",TRT BELGESEL
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196807&extension=ts
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" group-title="Belgesel",NATIONAL GEOGRAPHIC
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197433&extension=ts&play_token=vIAFFKePWW
+#EXTINF:-1 tvg-name="NATGEO WILD" group-title="Belgesel",NATGEO WILD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196852&extension=ts
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="Belgesel",DISCOVERY CHANNEL
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196839&extension=ts
+#EXTINF:-1 tvg-name="DMAX" group-title="Belgesel",DMAX
+https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
+#EXTINF:-1 tvg-name="TLC" group-title="Belgesel",TLC
+https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
+#EXTINF:-1 tvg-name="VIASAT EXPLORE" group-title="Belgesel",VIASAT EXPLORE
+http://umperisn.mywire.org/index.php?id=594656&token=DeaTHLesS
+#EXTINF:-1 tvg-name="BEIN IZ" group-title="Belgesel",BEIN IZ
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19078/index.m3u8
+#EXTINF:-1 tvg-name="HISTORY " group-title="Belgesel",HISTORY 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10736&extension=ts
+#EXTINF:-1 tvg-name="DA VINCI LEARNING" group-title="Çocuk / Belgesel",DA VINCI LEARNING
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196819&extension=ts
+#EXTINF:-1 tvg-name="NATURE ESCAPE HD" group-title="Belgesel",NATURE ESCAPE HD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196853&extension=ts
+#EXTINF:-1 tvg-name="LOVE NATURE" group-title="Belgesel",LOVE NATURE
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196848&extension=ts
+#EXTINF:-1 tvg-name="BBC EARTH " group-title="Belgesel",BBC EARTH 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314485&extension=ts
+#EXTINF:-1 tvg-name="VIASAT HISTORY" group-title="Belgesel",VIASAT HISTORY
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170684&extension=ts
+#EXTINF:-1 tvg-name="CHASSE & PECHE" group-title="Belgesel",CHASSE & PECHE
+http://superiptv21.com/live/erayrende/ilttuta39/dea5fad5-14b2-4cce-9f87-ab113953c371.m3u?output=ts
+#EXTINF:-1 tvg-name="TGRT BELGESEL" group-title="Belgesel",TGRT BELGESEL
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8?md5=yJ4adbAK5bE0F93vqFevgw&expires=1687122603
+#EXTINF:-1 tvg-name="DOCUSCREEN " group-title="Belgesel",DOCUSCREEN 
+http://superiptv21.com/live/erayrende/ilttuta39/324304a1-0293-4cda-ae6a-8fbed5ee2ebf.m3u?output=ts
+#EXTINF:-1 tvg-name="YABAN TV" group-title="Belgesel",YABAN TV
+http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=197439&extension=ts
+#EXTINF:-1 tvg-name="HABITAT TV" group-title="Belgesel",HABITAT TV
+http://umperisn.mywire.org/index.php?id=594651&token=DeaTHLesS
+#EXTINF:-1 tvg-name="Tarih TV" group-title="Belgesel",Tarih TV
+http://umperisn.mywire.org/index.php?id=594663&token=DeaTHLesS
+#EXTINF:-1 tvg-name="CIFTCI TV" group-title="Belgesel",CIFTCI TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR" group-title="Spor",TRT SPOR
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10783&extension=ts
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" group-title="Spor",TRT SPOR YILDIZ
+http://umperisn.mywire.org/index.php?id=2019&token=DeaTHLesS
+#EXTINF:-1 tvg-name="A SPOR" group-title="Spor",A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-name="EKOL TV" group-title="Haber",EKOL TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1165404&extension=ts
+#EXTINF:-1 tvg-name="HT SPOR" group-title="Spor",HT SPOR
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 tvg-name="TJK TV" group-title="Spor",TJK TV
+https://tjktv-live.tjk.org/tjktv_1080p.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD" group-title="Spor",EUROSPORT 1 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivees1.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT 2 HD" group-title="Spor",EUROSPORT 2 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivees2.m3u8
+#EXTINF:-1 tvg-name="NBA TV" group-title="Spor",NBA TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196854&extension=ts
+#EXTINF:-1 tvg-name="CBC SPORT" group-title="Spor",CBC SPORT
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314887&extension=ts
+#EXTINF:-1 tvg-name="TRT MUZIK" group-title="Müzik",TRT MUZIK
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197363&extension=ts&play_token=bHBz9ZRpwX
+#EXTINF:-1 tvg-name="KRAL TV" group-title="Müzik",KRAL TV
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197360&extension=ts&play_token=06puQPiAQ5
+#EXTINF:-1 tvg-name="KRAL POP" group-title="Müzik",KRAL POP
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197361&extension=ts&play_token=88YQcnlyZu
+#EXTINF:-1 tvg-name="DREAM TURK" group-title="Müzik",DREAM TURK
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-name="POWER" group-title="Müzik",POWER
+http://45.138.173.72:8080/OERXRGdCUExrankyVkxTNitZY2tXeXhHc3FkMkxsUDJ6V24yYXdtaDcwcz0?output=ts
+#EXTINF:-1 tvg-name="POWER TURK" group-title="Müzik",POWER TURK
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197364&extension=ts&play_token=FkdL4n4O9g
+#EXTINF:-1 tvg-name="POWER TURK SLOW" group-title="Müzik",POWER TURK SLOW
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="POWER TURK TAPTAZE" group-title="Müzik",POWER TURK TAPTAZE
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="NR1 TURK" group-title="Müzik",NR1 TURK
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197358&extension=ts&play_token=7iPd5Weu0a
+#EXTINF:-1 tvg-name="NR1 HD" group-title="Müzik",NR1 HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197359&extension=ts&play_token=VTomsfRgFY
+#EXTINF:-1 tvg-name="DREAM TV" group-title="Müzik",DREAM TV
+http://umperisn.mywire.org/index.php?id=595432&token=DeaTHLesS
+#EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="Spor",BEIN SPORTS 2
+http://umperisn.mywire.org/index.php?id=2207&token=DeaTHLesS
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD" group-title="Spor",BEIN SPORTS 3 HD
+http://umperisn.mywire.org/index.php?id=2210&token=DeaTHLesS
+#EXTINF:-1 tvg-name="BEIN SPORTS 4" group-title="Spor",BEIN SPORTS 4
+http://umperisn.mywire.org/index.php?id=2213&token=DeaTHLesS
+#EXTINF:-1 tvg-name="BEIN SPORTS 5" group-title="Spor",BEIN SPORTS 5
+http://umperisn.mywire.org/index.php?id=423873&token=DeaTHLesS
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" group-title="Spor",BEIN SPORTS MAX 2
+http://umperisn.mywire.org/index.php?id=2217&token=DeaTHLesS
+#EXTINF:-1 tvg-name="S SPORT" group-title="Spor",S SPORT
+https://tinyurl.com/Fiat-linea-multijet/yula/ceydus1.m3u8
+#EXTINF:-1 tvg-name="beIN BOXOFFICE-1-HD" group-title="Sinema",beIN BOXOFFICE-1-HD
+http://umperisn.mywire.org/index.php?id=591405&token=DeaTHLesS
+#EXTINF:-1 tvg-name="beIN BOXOFFICE 2" group-title="Sinema",beIN BOXOFFICE 2
+http://umperisn.mywire.org/index.php?id=591403&token=DeaTHLesS
+#EXTINF:-1 tvg-name="beIN BOXOFFICE 3" group-title="Sinema",beIN BOXOFFICE 3
+http://umperisn.mywire.org/index.php?id=591401&token=DeaTHLesS
+#EXTINF:-1 tvg-name="beIN MOVIES ACTION HD" group-title="Sinema",beIN MOVIES ACTION HD
+http://umperisn.mywire.org/index.php?id=591399&token=DeaTHLesS
+#EXTINF:-1 tvg-name="SİNEMA 1001" group-title="Sinema",SİNEMA 1001
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196825&extension=ts
+#EXTINF:-1 tvg-name="SİNEMA 1002" group-title="Sinema",SİNEMA 1002
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196826&extension=ts
+#EXTINF:-1 tvg-name="SİNEMA AKSİYON" group-title="Sinema",SİNEMA AKSİYON
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196828&extension=ts
+#EXTINF:-1 tvg-name="SİNEMA AKSİYON 2 " group-title="Sinema",SİNEMA AKSİYON 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196829&extension=ts
+#EXTINF:-1 tvg-name="SİNEMA AİLE " group-title="Sinema",SİNEMA AİLE 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196830&extension=ts
+#EXTINF:-1 tvg-name="SİNEMA AİLE 2 " group-title="Sinema",SİNEMA AİLE 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196831&extension=ts
+#EXTINF:-1 tvg-name="SİNEMA KOMEDİ " group-title="Sinema",SİNEMA KOMEDİ 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196832&extension=ts
+#EXTINF:-1 tvg-name="SİNEMA KOMEDİ 2" group-title="Sinema",SİNEMA KOMEDİ 2
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196833&extension=ts
+#EXTINF:-1 tvg-name="beIN MOVIES STARS HD" group-title="Sinema",beIN MOVIES STARS HD
+http://umperisn.mywire.org/index.php?id=591391&token=DeaTHLesS
+#EXTINF:-1 tvg-name="beIN MOVIES FAMILY HD" group-title="Sinema",beIN MOVIES FAMILY HD
+http://umperisn.mywire.org/index.php?id=591397&token=DeaTHLesS
+#EXTINF:-1 tvg-name="beIN MOVIES TURK HD" group-title="Sinema",beIN MOVIES TURK HD
+http://umperisn.mywire.org/index.php?id=591389&token=DeaTHLesS
+#EXTINF:-1 tvg-name="beIN SERIES 1 HD" group-title="Dizi",beIN SERIES 1 HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&extension=ts&play_token=fDOWsHHnSf
+#EXTINF:-1 tvg-name="beIN SERIES 2 HD" group-title="Dizi",beIN SERIES 2 HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471674&extension=ts&play_token=5gfhIkzuQg
+#EXTINF:-1 tvg-name="beIN SERIES 3 HD" group-title="Dizi",beIN SERIES 3 HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471675&extension=ts&play_token=gzHjnGWvXz
+#EXTINF:-1 tvg-name="beIN SERIES 4 HD" group-title="Dizi",beIN SERIES 4 HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471676&extension=ts&play_token=x3dLMvs808
