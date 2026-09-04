@@ -1,0 +1,21 @@
+{
+  "name": "cantv",
+  "version": "1.0.0",
+  "description": "Turkish IPTV M3U builder with TV channels and movies from Vavoo & TMDB",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js",
+    "scrape": "node scrape.js",
+    "all": "npm run build && npm run scrape",
+    "merge": "node merge.js"
+  },
+  "keywords": ["iptv", "m3u", "tv", "movies", "turkey"],
+  "author": "can12zaza",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
