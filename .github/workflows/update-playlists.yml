@@ -1,0 +1,62 @@
+name: Update Playlists
+
+# izin eklemesi
+permissions:
+  contents: write
+
+on:
+  push:
+    paths:
+      - 'sources.txt'
+      - 'download_playlists.py'
+      - 'autogroup.py'
+      - 'clean_playlist.py'
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Download playlists
+        run: python download_playlists.py
+
+      - name: Autogroup (fill missing group-title)
+        run: python autogroup.py
+
+      - name: Replace original playlist with grouped output
+        run: |
+          if [ -f playlist_grouped.m3u ]; then
+            mv playlist_grouped.m3u playlist.m3u
+          fi
+
+      - name: Clean playlist (dedupe / prefer best quality)
+        run: python clean_playlist.py
+
+      - name: Show generated files (for debug)
+        run: ls -l playlist* || true
+
+      - name: Commit generated playlists (if changed)
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: 'chore: update generated playlists'
+          add: 'playlist.m3u playlist_clean.m3u'
+          push: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

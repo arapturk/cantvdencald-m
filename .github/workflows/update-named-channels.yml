@@ -1,0 +1,39 @@
+name: Kanal İsimlerini Güncelle
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  channels:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Requests
+        run: pip install requests
+
+      - name: Kanal kaynaklarını kontrol et
+        run: python update_named_channels.py
+
+      - name: Sonuçları kaydet
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/kanal_kaynaklari.m3u data/kanal_raporu.json
+          git diff --cached --quiet && echo "Değişiklik yok" && exit 0
+          git commit -m "chore: update named channel sources"
+          git push
