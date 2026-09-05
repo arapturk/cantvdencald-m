@@ -134,7 +134,7 @@ http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314887&extension=ts
 #EXTINF:-1 tvg-name="TRT MUZIK" group-title="Müzik",TRT MUZIK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197363&extension=ts&play_token=bHBz9ZRpwX
 #EXTINF:-1 tvg-name="KRAL TV" group-title="Müzik",KRAL TV
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197360&extension=ts&play_token=06puQPiAQ5
+http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 tvg-name="KRAL POP" group-title="Müzik",KRAL POP
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197361&extension=ts&play_token=88YQcnlyZu
 #EXTINF:-1 tvg-name="KRALPOP AKUSTIK" group-title="Müzik",KRALPOP AKUSTIK
@@ -162,9 +162,7 @@ http://umperisn.mywire.org/index.php?id=2210&token=DeaTHLesS
 #EXTINF:-1 tvg-name="BEIN SPORTS 4" group-title="Spor",BEIN SPORTS 4
 http://umperisn.mywire.org/index.php?id=2213&token=DeaTHLesS
 #EXTINF:-1 tvg-name="BEIN SPORTS 5" group-title="Spor",BEIN SPORTS 5
-http://umperisn.mywire.org/index.php?id=620422&token=DeaTHLesS
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" group-title="Spor",BEIN SPORTS MAX 2
-http://umperisn.mywire.org/index.php?id=2217&token=DeaTHLesS
+http://umperisn.mywire.org/index.php?id=423873&token=DeaTHLesS
 #EXTINF:-1 tvg-name="S SPORT" group-title="Spor",S SPORT
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydus1.m3u8
 #EXTINF:-1 tvg-name="beIN BOXOFFICE-1-HD" group-title="Sinema",beIN BOXOFFICE-1-HD
@@ -174,7 +172,7 @@ http://umperisn.mywire.org/index.php?id=591403&token=DeaTHLesS
 #EXTINF:-1 tvg-name="beIN BOXOFFICE 3" group-title="Sinema",beIN BOXOFFICE 3
 http://umperisn.mywire.org/index.php?id=591401&token=DeaTHLesS
 #EXTINF:-1 tvg-name="beIN MOVIES ACTION HD" group-title="Sinema",beIN MOVIES ACTION HD
-http://umperisn.mywire.org/index.php?id=591399&token=DeaTHLesS
+http://umperisn.mywire.org/index.php?id=591398&token=DeaTHLesS
 #EXTINF:-1 tvg-name="SİNEMA 1001" group-title="Sinema",SİNEMA 1001
 http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196825&extension=ts
 #EXTINF:-1 tvg-name="SİNEMA 1002" group-title="Sinema",SİNEMA 1002
