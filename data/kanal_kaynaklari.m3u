@@ -25,6 +25,8 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196690&ex
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196687&extension=ts&play_token=DGJnc2zcvx
 #EXTINF:-1 tvg-name="TEVE 2 HD" group-title="Ulusal",TEVE 2 HD
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196689&extension=ts&play_token=7u6BNeQHj0
+#EXTINF:-1 tvg-name="TRT DIYANET HD" group-title="Dini",TRT DIYANET HD
+http://elit64.eu:2086/barisakin643564/kin643564/242?output=ts
 #EXTINF:-1 tvg-name="SEMERKAND TV" group-title="Dini",SEMERKAND TV
 http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LALEGUL TV" group-title="Dini",LALEGUL TV
@@ -45,6 +47,8 @@ https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197258&extension=ts&play_token=kT246ZR7mz
 #EXTINF:-1 tvg-name="HABERTURK HD" group-title="Haber",HABERTURK HD
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197264&extension=ts&play_token=Iw60S9KlXh
+#EXTINF:-1 tvg-name="NTV HABER HD" group-title="Haber",NTV HABER HD
+http://elit64.eu:2086/barisakin643564/kin643564/55?output=ts
 #EXTINF:-1 tvg-name="A HABER HD" group-title="Haber",A HABER HD
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197259&extension=ts&play_token=lETzv8vz
 #EXTINF:-1 tvg-name="TGRT HABER" group-title="Haber",TGRT HABER
@@ -63,6 +67,8 @@ https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197272&extension=ts&play_token=YMedtQj0VQ
 #EXTINF:-1 tvg-name="FLASH HABER" group-title="Haber",FLASH HABER
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197265&extension=ts&play_token=QkFNXps4SM
+#EXTINF:-1 tvg-name="CNN INTERNATIONAL HD" group-title="Haber",CNN INTERNATIONAL HD
+http://elit64.eu:2086/barisakin643564/kin643564/205508?output=ts
 #EXTINF:-1 tvg-name="TRT BELGESEL" group-title="Belgesel",TRT BELGESEL
 http://umperisn.mywire.org/index.php?id=1993&token=DeaTHLesS
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" group-title="Belgesel",NATIONAL GEOGRAPHIC
@@ -81,6 +87,10 @@ http://umperisn.mywire.org/index.php?id=594656&token=DeaTHLesS
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19078/index.m3u8
 #EXTINF:-1 tvg-name="HISTORY " group-title="Belgesel",HISTORY 
 http://umperisn.mywire.org/index.php?id=594667&token=DeaTHLesS
+#EXTINF:-1 tvg-name="DA VINCI LEARNING" group-title="Çocuk / Belgesel",DA VINCI LEARNING
+http://elit64.eu:2086/barisakin643564/kin643564/207671?output=ts
+#EXTINF:-1 tvg-name="NATURE ESCAPE HD" group-title="Belgesel",NATURE ESCAPE HD
+http://elit64.eu:2086/barisakin643564/kin643564/78949?output=ts
 #EXTINF:-1 tvg-name="LOVE NATURE" group-title="Belgesel",LOVE NATURE
 http://umperisn.mywire.org/index.php?id=594669&token=DeaTHLesS
 #EXTINF:-1 tvg-name="BBC EARTH " group-title="Belgesel",BBC EARTH 
@@ -122,7 +132,7 @@ http://umperisn.mywire.org/index.php?id=2048&token=DeaTHLesS
 #EXTINF:-1 tvg-name="TRT MUZIK" group-title="Müzik",TRT MUZIK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197363&extension=ts&play_token=bHBz9ZRpwX
 #EXTINF:-1 tvg-name="KRAL TV" group-title="Müzik",KRAL TV
-http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197360&extension=ts&play_token=06puQPiAQ5
 #EXTINF:-1 tvg-name="KRAL POP" group-title="Müzik",KRAL POP
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197361&extension=ts&play_token=88YQcnlyZu
 #EXTINF:-1 tvg-name="DREAM TURK" group-title="Müzik",DREAM TURK
@@ -146,7 +156,7 @@ http://umperisn.mywire.org/index.php?id=2206&token=DeaTHLesS
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 HD" group-title="Spor",BEIN SPORTS 3 HD
 http://umperisn.mywire.org/index.php?id=2210&token=DeaTHLesS
 #EXTINF:-1 tvg-name="BEIN SPORTS 4" group-title="Spor",BEIN SPORTS 4
-http://umperisn.mywire.org/index.php?id=2212&token=DeaTHLesS
+http://umperisn.mywire.org/index.php?id=2213&token=DeaTHLesS
 #EXTINF:-1 tvg-name="BEIN SPORTS 5" group-title="Spor",BEIN SPORTS 5
 http://umperisn.mywire.org/index.php?id=423873&token=DeaTHLesS
 #EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" group-title="Spor",BEIN SPORTS MAX 2
