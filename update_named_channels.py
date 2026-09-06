@@ -89,6 +89,10 @@ def norm_keep(text):
     return re.sub(r'\s+', ' ', s).strip()
 
 
+# Aday isimde fazladan bulunmasına izin verilen, ayırt edici olmayan kelimeler.
+# Buraya ülke/şebeke adı EKLEMEYİN (RTR, TURK, EURO gibi) — yanlış eşleşme olur.
+SAFE_EXTRA_TOKENS = {"TV", "CANLI", "LIVE", "CHANNEL", "KANAL", "TELEVISION"}
+
 ALIASES = {
     norm("TV 8"): {"TV8", "TV 8"},
     norm("TV 8.5"): {"TV8 5", "TV 8 5", "TV85"},
@@ -186,11 +190,15 @@ def channel_match(target, candidate):
     if b in ALIASES.get(a, set()) or a in ALIASES.get(b, set()):
         return True
 
-    # Token kapsama: hedefin tüm kelimeleri adayda geçiyorsa ve
-    # adayda en fazla 1 fazla kelime varsa eşleşmiş say.
-    ta, tb = a.split(), b.split()
-    if len(a) >= 4 and set(ta).issubset(set(tb)) and len(set(tb) - set(ta)) <= 1:
-        return True
+    # Token kapsama: hedefin tüm kelimeleri adayda geçmeli VE adaydaki
+    # fazla kelimeler yalnızca zararsız ekler olmalı.
+    # "PLANETA" ile "PLANETA RTR" eşleşmez (RTR ayırt edici bir kelimedir),
+    # ama "SLAM" ile "SLAM TV" eşleşir.
+    ta, tb = set(a.split()), set(b.split())
+    if len(a) >= 3 and ta and ta.issubset(tb):
+        extra = tb - ta
+        if extra and extra.issubset(SAFE_EXTRA_TOKENS):
+            return True
     return False
 
 
