@@ -135,6 +135,8 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197363&ex
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197360&extension=ts&play_token=06puQPiAQ5
 #EXTINF:-1 tvg-name="KRAL POP" group-title="Müzik",KRAL POP
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197361&extension=ts&play_token=88YQcnlyZu
+#EXTINF:-1 tvg-name="KRALPOP AKUSTIK" group-title="Müzik",KRALPOP AKUSTIK
+http://elit64.eu:2086/barisakin643564/kin643564/85900?output=ts
 #EXTINF:-1 tvg-name="DREAM TURK" group-title="Müzik",DREAM TURK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-name="POWER" group-title="Müzik",POWER
@@ -152,15 +154,13 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197359&ex
 #EXTINF:-1 tvg-name="DREAM TV" group-title="Müzik",DREAM TV
 http://umperisn.mywire.org/index.php?id=595432&token=DeaTHLesS
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="Spor",BEIN SPORTS 2
-http://umperisn.mywire.org/index.php?id=2206&token=DeaTHLesS
+http://umperisn.mywire.org/index.php?id=2207&token=DeaTHLesS
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 HD" group-title="Spor",BEIN SPORTS 3 HD
 http://umperisn.mywire.org/index.php?id=2210&token=DeaTHLesS
 #EXTINF:-1 tvg-name="BEIN SPORTS 4" group-title="Spor",BEIN SPORTS 4
 http://umperisn.mywire.org/index.php?id=2213&token=DeaTHLesS
 #EXTINF:-1 tvg-name="BEIN SPORTS 5" group-title="Spor",BEIN SPORTS 5
 http://umperisn.mywire.org/index.php?id=423873&token=DeaTHLesS
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" group-title="Spor",BEIN SPORTS MAX 2
-http://umperisn.mywire.org/index.php?id=2217&token=DeaTHLesS
 #EXTINF:-1 tvg-name="BEIN CONNECT 4" group-title="Spor / Eğlence",BEIN CONNECT 4
 http://superiptv21.com/live/erayrende/ilttuta39/feadd582-d282-48d2-9510-b12e5c4f01f1.m3u?output=ts
 #EXTINF:-1 tvg-name="BEIN CONNECT 5" group-title="Spor ",BEIN CONNECT 5
