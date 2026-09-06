@@ -106,6 +106,18 @@ ALIASES = {
     norm("TRT MUZIK"): {"TRT MUZIK", "TRT MUSIC"},
     norm("ÜLKE TV"): {"ULKE TV", "ULKETV"},
     norm("24"): {"24 TV", "TV 24", "KANAL 24"},
+
+    # --- Yabanci kanallar: kaynaklardaki gercek isimleri ---
+    norm("BALKANIKA"): {"BALKANIKA MUSIC TV", "BALKANIKA MUSIC"},
+    norm("ARABICA"): {"ROTANA ARABICA", "ARABICA TV"},
+    norm("ROTANA CLIP"): {"ROTANA CLIP", "ROTANA CLIP TV"},
+    norm("ALBKANALE MUZIK"): {"ALB KANALE MUZIK", "ALBKANALE MUSIC"},
+    norm("M2O"): {"M2O", "M2O TV", "RADIO M2O"},
+    norm("PLANETA"): {"PLANETA TV", "PLANETA HD", "PLANETA FOLK"},
+    norm("TV 538"): {"TV538", "RADIO 538 TV", "538 TV"},
+    norm("SLAM"): {"SLAM TV", "SLAM FM TV", "SLAM"},
+    norm("MEKKE CANLI"): {"MAKKAH LIVE", "MAKKAH", "SAUDI QURAN", "QURAN TV"},
+    norm("MEDINE CANLI"): {"MADINAH LIVE", "MADINAH", "SAUDI SUNNAH", "SUNNAH TV"},
 }
 # Alias değerlerini de normalize et (elle yazılanlar tutarsız olabilir)
 ALIASES = {k: {norm(v) for v in vals} for k, vals in ALIASES.items()}
